@@ -1,2 +1,3 @@
 # Testing the existing design files available in this repo !!
-Please follow the 
+Inorder to use the design files in this repo, first create a technology library using the [Cadence Virtuoso Tutorial](https://github.com/webisgood/VLSI_Design_Lab_Files/blob/master/Cadence%20Tutorial.pdf) doc. Later, simply download the schematics from each experiment into the newly created library folder.
+You should now be able to use the design schematics from this repo!!
